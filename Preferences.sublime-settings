@@ -6,14 +6,17 @@
 	"ignored_packages":
 	[
 	],
+	"indent_guide_options":
+	[
+		"draw_normal",
+		"draw_active"
+	],
+	"line_padding_bottom": 1,
+	"line_padding_top": 1,
+	"material_theme_accent_orange": true,
+	"material_theme_accent_scrollbars": true,
+	"material_theme_small_statusbar": true,
+	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
-	"theme": "Material-Theme.sublime-theme",
-	"indent_guide_options"         : [ "draw_normal", "draw_active" ],   // Highlight active indent
-	"line_padding_bottom"          : 3,
-	"line_padding_top"             : 3,
-	"overlay_scroll_bars"          : "enabled",
-	"material_theme_accent_orange"            : true,
-	"material_theme_accent_scrollbars"        : true,
-	"material_theme_panel_separator"          : true,
-	"material_theme_small_statusbar"          : true,
+	"theme": "Material-Theme.sublime-theme"
 }
