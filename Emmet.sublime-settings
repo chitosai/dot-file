@@ -1,0 +1,23 @@
+{
+	"snippets": {
+		"variables": {
+			"lang": "cn",
+			"locale": "zh-CN",
+			"charset": "UTF-8"
+		},
+		"html": {
+			"snippets": {
+			},
+			"abbreviations": {
+				"label": "<label>",
+				"img": "<img src=\"\" />",
+				"select": "<select>",
+				"input": "<input type=\"${1:text}\" />",
+				"elb": "<el-button>",
+				"els": "<el-select>",
+				"elo": "<el-option>",
+				"pagination": "<pagination>"
+			}
+		}
+	}
+}
