@@ -9,6 +9,7 @@
 			"snippets": {
 			},
 			"abbreviations": {
+				"a:tab": "<a href=\"\" target=\"_blank\">",
 				"label": "<label>",
 				"img": "<img src=\"\" />",
 				"select": "<select>",
