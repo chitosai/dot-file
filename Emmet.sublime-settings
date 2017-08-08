@@ -15,9 +15,16 @@
 				"select": "<select>",
 				"input": "<input type=\"${1:text}\" />",
 				"elb": "<el-button>",
+				"eli": "<el-input>",
 				"els": "<el-select>",
 				"elo": "<el-option>",
-				"pagination": "<pagination>"
+				"elc": "<el-checkbox>",
+				"el-form": "<el-form label-width=\"80px\">",
+				"elf": "el-form",
+				"el-form-item": "<el-form-item label=\"\">",
+				"elfi": "el-form-item",
+				"input-text": "<input-text label=\"\" v-model=\"\">",
+				"pagination": "<pagination>",
 			}
 		}
 	}
