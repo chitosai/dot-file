@@ -18,5 +18,6 @@
 	"material_theme_small_statusbar": true,
 	"overlay_scroll_bars": "enabled",
 	"tab_size": 2,
+	"translate_tabs_to_spaces": true,
 	"theme": "Material-Theme.sublime-theme"
 }
