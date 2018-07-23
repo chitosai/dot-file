@@ -1,0 +1,22 @@
+{
+    "window.zoomLevel": 0,
+    "editor.fontSize": 14,
+    "editor.fontFamily": "monaco",
+    "workbench.colorTheme": "Material Theme",
+    "workbench.activityBar.visible": true,
+    "workbench.statusBar.visible": true,
+    "workbench.sideBar.location": "left",
+    "editor.minimap.enabled": false,
+    "editor.tabSize": 2,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "editor.snippetSuggestions": "top",
+    "editor.wordWrap": "on",
+    "editor.renderWhitespace": "none",
+    "editor.renderControlCharacters": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyParenthesis": true,"javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "emmet.showSuggestionsAsSnippets": true,
+    "emmet.syntaxProfiles": {
+        "vue-html": "html",
+        "vue": "html"
+    }
+}
